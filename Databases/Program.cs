@@ -152,22 +152,22 @@ namespace Databases
             program.ADOInsertTest(1);
             program.ADOInsertTest(1000);
             program.ADOInsertTest(100000);
-            //program.ADOInsertTest(1000000);
+            program.ADOInsertTest(1000000);
 
             program.ADOSelectTest(1);
             program.ADOSelectTest(1000);
             program.ADOSelectTest(100000);
-           //program.ADOSelectTest(1000000);
+			program.ADOSelectTest(1000000);
 
             program.ADOUpdateTest(1);
             program.ADOUpdateTest(1000);
             program.ADOUpdateTest(100000);
-            //program.ADOUpdateTest(1000000);
+            program.ADOUpdateTest(1000000);
 
             program.ADODeleteTest(1);
             program.ADODeleteTest(1000);
             program.ADODeleteTest(100000);
-            //program.ADODeleteTest(1000000);
+            program.ADODeleteTest(1000000);
         }
     }
 }
