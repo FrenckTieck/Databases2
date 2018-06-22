@@ -1,0 +1,17 @@
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.exe.config
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.exe
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.pdb
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\DnsClient.dll
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\System.Buffers.dll
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\DnsClient.xml
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\frank\source\repos\Databases\MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\frank\source\repos\Databases\MongoDB\obj\Debug\MongoDB.csprojAssemblyReference.cache
+C:\Users\frank\source\repos\Databases\MongoDB\obj\Debug\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Databases\MongoDB\obj\Debug\MongoDB.csproj.CopyComplete
+C:\Users\frank\source\repos\Databases\MongoDB\obj\Debug\MongoDB.exe
+C:\Users\frank\source\repos\Databases\MongoDB\obj\Debug\MongoDB.pdb

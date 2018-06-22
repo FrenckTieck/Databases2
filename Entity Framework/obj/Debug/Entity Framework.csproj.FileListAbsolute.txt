@@ -1,0 +1,12 @@
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\Entity Framework.exe.config
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\Entity Framework.exe
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\Entity Framework.pdb
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\frank\source\repos\Databases\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\frank\source\repos\Databases\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Databases\Entity Framework\obj\Debug\Entity Framework.csproj.CopyComplete
+C:\Users\frank\source\repos\Databases\Entity Framework\obj\Debug\Entity Framework.exe
+C:\Users\frank\source\repos\Databases\Entity Framework\obj\Debug\Entity Framework.pdb
+C:\Users\frank\source\repos\Databases\Entity Framework\obj\Debug\Entity Framework.csprojAssemblyReference.cache

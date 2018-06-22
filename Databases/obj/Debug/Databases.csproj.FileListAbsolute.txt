@@ -1,0 +1,7 @@
+C:\Users\frank\source\repos\Databases\Databases\bin\Debug\Databases.exe.config
+C:\Users\frank\source\repos\Databases\Databases\bin\Debug\Databases.exe
+C:\Users\frank\source\repos\Databases\Databases\bin\Debug\Databases.pdb
+C:\Users\frank\source\repos\Databases\Databases\obj\Debug\Databases.csprojAssemblyReference.cache
+C:\Users\frank\source\repos\Databases\Databases\obj\Debug\Databases.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Databases\Databases\obj\Debug\Databases.exe
+C:\Users\frank\source\repos\Databases\Databases\obj\Debug\Databases.pdb
